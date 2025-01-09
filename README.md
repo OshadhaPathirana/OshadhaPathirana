@@ -11,8 +11,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oshadha%20Pathirana-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/oshadhapathirana)  
-📫 Email: [oshadha1619@gmail.com](mailto:oshadha1619@gmail.com)  
-🌐 Personal Website: [oshadha-pathirana.github.io](https://oshadha-pathirana.github.io)
 
 ---
 
@@ -80,13 +78,6 @@ This project emphasizes hands-on learning in digital design, utilizing PCBs to b
 - **[A self adapting wheel system for space exploration rovers](https://iafastro.directory/iac/paper/id/65366/summary/)**: Presented at the 72nd International Astronautical Congress, Dubai, UAE (25 – 29 Oct. 2021).  
 - **[SOIL PENETRATION DARTS (SPDs) FOR DEEP SOIL SAMPLING](https://iafastro.directory/iac/paper/id/72590/summary/)**: Presented at the 73rd International Astronautical Congress, Paris, France (18 – 22 Sep. 2022).  
 - **[Economical Lunar Sample Return Mission with Soil Penetration Darts](https://iafastro.directory/iac/paper/id/89101/summary/)**: Presented at the 74th International Astronautical Congress, Milan, Italy (15 – 17 Nov. 2024).
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oshadha-pathirana&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshadha-pathirana&layout=compact&theme=radical)
 
 ---
 
