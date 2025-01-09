@@ -1,6 +1,6 @@
 # 💡 Rusula Oshadha Pathirana
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+my+GitHub!)
+![Profile Banner](https://www.linkedin.com/in/oshadhapathirana/overlay/background-image/)
 
 🎓 **Undergraduate in Electronics and Telecommunication Engineering**  
 📍 **University of Moratuwa, Sri Lanka**  
