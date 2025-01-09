@@ -17,9 +17,9 @@
 ## 🛠️ Technical Skills
 
 ### ⚙️ **Hardware Design & Development**
-- 💻 **FPGA Tools**: Quartus, Vivado, ModelSim
+- 💻 **FPGA Tools**: Quartus, iCE Studio, ModelSim
 - 🔌 **HDL Languages**: Verilog, VHDL
-- 🧠 Microcontrollers: Arduino, PIC
+- 🧠 Microcontrollers: C/C++, Assembly, PIC &Embedded C
 
 ### 🔋 **Power Electronics**
 - Power conversion circuits
@@ -29,25 +29,38 @@
 ### 📡 **Embedded Systems**
 - Real-time systems with Nios II on MAX10 FPGA
 - IoT integration using MQTT and Node-RED
-- PID control for motor systems
+- PIC and PLC Programming
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1️⃣ **Custom 8-bit CPU on FPGA**
+### 1️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom CPU Implementation**
+
+This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability. 
+### 🔑 Key Highlights:
+- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools.
+- **Memory:** 8MB SDRAM for efficient data handling.
+- **Compatibility:** Arduino support, enabling integration with various peripherals.
+- **Programming Support:** C and C++ for streamlined application development.
+
+### 🌐 System-on-Chip (SoC) Design:
+The CPU design integrates seamlessly into an SoC configuration, enabling:
+- Efficient execution of computational tasks.
+- Real-time applications, such as interrupt-based multitasking.
+
+### 🚀 Future Enhancements:
+Planned improvements include:
+- Addition of custom instructions to optimize specific operations.
+- Integration of additional peripherals for enhanced functionality and scalability.
+
+### 2️⃣ **PCB-Based 8-Bit CPU Design**
 💾 Designed and implemented a CPU using Verilog and the CD40181 ALU.  
 📐 **Highlights**: PCB design for backboard integration, micro-operations programming.
 
 This CPU, centered around the CD40181 ALU, has been an incredible journey into the world of microarchitecture and instruction execution. Key features include an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM organized into 16, 8-bit words. I've completed most of the CPU, but I'm still working on the control unit and programming micro operations (u ops). Once these components are finalized, I plan to mount all the circuits on a back board to create a cohesive and functional system.
 
 This CPU design project has been a fantastic learning experience, allowing me to delve deep into the intricacies of processor design and operation. I'm thrilled to share my progress and look forward to any feedback or collaboration opportunities from the community. You can explore the project and dive into the details on my GitHub: [8-Bit CPU with CD40181 ALU on PCBs](https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs)
-
-### 2️⃣ **PCB-Based 8-Bit CPU Design**
-🛠️ An exploration of microarchitecture through a custom-designed CPU centered on the CD40181 ALU.  
-📐 **Features**: 8-bit bus width, 4-bit and 8-bit instruction support, 128 bits of RAM, and micro-operations programming.
-
-This project emphasizes hands-on learning in digital design, utilizing PCBs to bring the CPU to life. The final goal includes integrating all circuits onto a backboard for a cohesive and operational system. The GitHub repository features detailed documentation and ongoing updates: [8-Bit CPU with CD40181 ALU on PCBs](https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs).
 
 ### 3️⃣ **Smart Solar Inverter System**
 🔋 A cutting-edge solution for efficient solar power generation with integrated IoT monitoring.  
