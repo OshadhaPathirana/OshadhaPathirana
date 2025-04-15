@@ -89,8 +89,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/11.jpg" width="100%" style="padding: 0;"></td>
-<td><img src="Images/12.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/11.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/12.jpg" width="50%" style="padding: 0;"></td>
 <td><img src="Images/14.jpg" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
