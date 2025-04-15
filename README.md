@@ -94,7 +94,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/2.jpg" style="width: 37%; height: auto;"/>
+  <img src="Images/2.jpg" style="width: 35%; height: auto;"/>
   <img src="Images/3.jpg" style="width: 20%; height: auto;"/>
 </div>
 
@@ -115,7 +115,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/15.jpg" style="width: 17%; height: auto;"/>
-  <img src="Images/16.jpg" style="width: 40%; height: auto;"/>
+  <img src="Images/16.jpg" style="width: 37%; height: auto;"/>
 </div>
 
 ---
