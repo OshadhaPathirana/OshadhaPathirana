@@ -17,18 +17,18 @@
 ## 🛠️ Technical Skills
 
 ### ⚙️ **Hardware Design & Development**
-- 💻 **FPGA Tools**: Quartus, iCE Studio, ModelSim
-- 🔌 **HDL Languages**: Verilog, VHDL
+- 💻 **FPGA Tools**: Quartus, iCE Studio, ModelSim  
+- 🔌 **HDL Languages**: Verilog, VHDL  
 - 🧠 Microcontrollers: C/C++, Assembly, PIC & Embedded C
 
 ### 🔋 **Power Electronics**
-- Power conversion circuits
-- Frequency-to-voltage converters
+- Power conversion circuits  
+- Frequency-to-voltage converters  
 - Smart solar inverter systems
 
 ### 📡 **Embedded Systems**
-- Real-time systems with Nios II on MAX10 FPGA
-- IoT integration using MQTT and Node-RED
+- Real-time systems with Nios II on MAX10 FPGA  
+- IoT integration using MQTT and Node-RED  
 - PIC and PLC Programming
 
 ---
@@ -39,25 +39,23 @@
 
 This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
-<table>
-<tr>
-<td><img src="Images/9.jpg" width="50%"></td>
-<td><img src="Images/10.jpg" width="50%"></td>
-</tr>
-</table>
+<table><tr>
+<td><img src="Images/9.jpg" width="100%"></td>
+<td><img src="Images/10.jpg" width="100%"></td>
+</tr></table>
 
 #### 🔑 Key Highlights:
-- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools.
-- **Memory:** 8MB SDRAM for efficient data handling.
-- **Compatibility:** Arduino support, enabling integration with various peripherals.
+- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools.  
+- **Memory:** 8MB SDRAM for efficient data handling.  
+- **Compatibility:** Arduino support, enabling integration with various peripherals.  
 - **Programming Support:** C and C++ for streamlined application development.
 
 #### 🌐 System-on-Chip (SoC) Design:
-- Efficient execution of computational tasks.
+- Efficient execution of computational tasks.  
 - Real-time applications, such as interrupt-based multitasking.
 
 #### 🚀 Future Enhancements:
-- Addition of custom instructions to optimize specific operations.
+- Addition of custom instructions to optimize specific operations.  
 - Integration of additional peripherals for enhanced functionality and scalability.
 
 ---
@@ -67,13 +65,11 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 💾 Designed and implemented a CPU using Verilog and the CD40181 ALU.  
 📐 **Highlights**: PCB design for backboard integration, micro-operations programming.
 
-<table>
-<tr>
-<td><img src="Images/6.jpg" width="70%"></td>
-<td><img src="Images/7.jpg" width="70%"></td>
-</tr>
-<tr><td><img src="Images/8.jpg" width="50%"></td></tr>
-</table>
+<table><tr>
+<td><img src="Images/6.jpg" width="100%"></td>
+<td><img src="Images/7.jpg" width="100%"></td>
+<td><img src="Images/8.jpg" width="100%"></td>
+</tr></table>
 
 🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.
 
@@ -87,62 +83,51 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 🛠️ **Technologies**: Embedded C, Node-RED, MQTT, Power Electronics  
 📈 **Outcome**: Enhanced energy efficiency and anomaly detection.
 
-<table>
-<tr>
-<td><img src="Images/11.jpg" width="70%"></td>
-<td><img src="Images/12.jpg" width="70%"></td>
-</tr>
-<tr>
-<td><img src="Images/14.jpg" width="70%"></td>
-</tr>
-</table>
+<table><tr>
+<td><img src="Images/11.jpg" width="100%"></td>
+<td><img src="Images/12.jpg" width="100%"></td>
+<td><img src="Images/14.jpg" width="100%"></td>
+</tr></table>
 
 ---
 
 ## 🔧 Other Projects & Collaborations
 
 ### 🛰️ **Nano Satellite Collaboration with GLEE**
-<table><tr><td><img src="Images/1.jpg" width="10%"></td></tr></table>
+<table><tr><td><img src="Images/1.jpg" width="100%"></td></tr></table>
 
 ---
 
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
-<table>
-<tr>
-<td><img src="Images/2.jpg" width="70%"></td>
-<td><img src="Images/3.jpg" width="70%"></td>
-</tr>
-</table>
+<table><tr>
+<td><img src="Images/2.jpg" width="100%"></td>
+<td><img src="Images/3.jpg" width="100%"></td>
+</tr></table>
 
 ---
 
-### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**
-
+### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
 #### 🛠 Smart Power and VFD Units
-<table>
-<tr>
-<td><img src="Images/4.jpg" width="70%"></td>
-<td><img src="Images/5.jpg" width="70%"></td>
-</tr>
-</table>
+<table><tr>
+<td><img src="Images/4.jpg" width="100%"></td>
+<td><img src="Images/5.jpg" width="100%"></td>
+</tr></table>
 
 ---
 
-### 🤖 **Sri Lanka Robotics Challenge 2025**
+### 🤖 **Sri Lanka Robotics Challenge 2025**  
 #### 🥈 2nd Place Winning Robot
-<table>
-<tr>
-<td><img src="Images/15.jpg" width="70%"></td>
-<td><img src="Images/16.jpg" width="70%"></td>
-</tr>
-</table>
+<table><tr>
+<td><img src="Images/15.jpg" width="100%"></td>
+<td><img src="Images/16.jpg" width="100%"></td>
+</tr></table>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Singapore Space Challenge** (2021): Distinction Award for innovative rover mobility solutions.
-- 🥈 **SLIoT Challenge** (2022): Second place for IoT-powered smart energy networks.
+- 🥇 **Singapore Space Challenge** (2021): Distinction Award for innovative rover mobility solutions.  
+- 🥈 **SLIoT Challenge** (2022): Second place for IoT-powered smart energy networks.  
 - 🏅 **Patent Holder**: Automated extendable drill design (LK21652) & Self-adapting wheel system (SAWS) (LK21653).
 
 ---
@@ -157,16 +142,16 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 ## 🎯 My Goals
 
-- 💡 Build innovative solutions in **FPGA and Power Electronics**
-- 🌱 Contribute to open-source projects
+- 💡 Build innovative solutions in **FPGA and Power Electronics**  
+- 🌱 Contribute to open-source projects  
 - 🔍 Explore opportunities to apply FPGA in energy-efficient systems
 
 ---
 
 ## 🎨 Engaging Facts
 
-- 🌟 Founder of Dyson Sphere, a project group of undergraduates focused on Renewable Energy and IoT.
-- 🚀 Dreaming of contributing to space exploration technology.
+- 🌟 Founder of Dyson Sphere, a project group of undergraduates focused on Renewable Energy and IoT.  
+- 🚀 Dreaming of contributing to space exploration technology.  
 - 🌍 Actively participates in hackathons and engineering competitions.
 
 ---
