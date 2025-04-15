@@ -40,8 +40,8 @@
 This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/9.jpg" style="width: 48%; height: auto;"/>
-  <img src="Images/10.jpg" style="width: 48%; height: auto;"/>
+  <img src="Images/9.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/10.jpg" style="width: 20%; height: auto;"/>
 </div>
 
 #### 🔑 Key Highlights:
@@ -68,7 +68,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/6.jpg" style="width: 32%; height: auto;"/>
   <img src="Images/7.jpg" style="width: 32%; height: auto;"/>
-  <img src="Images/8.jpg" style="width: 32%; height: auto;"/>
+  <img src="Images/8.jpg" style="width: 10%; height: auto;"/>
 </div>
 
 🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.
@@ -84,11 +84,11 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 📈 **Outcome**: Enhanced energy efficiency and anomaly detection.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/11.jpg" style="width: 48%; height: auto;"/>
-  <img src="Images/12.jpg" style="width: 48%; height: auto;"/>
+  <img src="Images/11.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/12.jpg" style="width: 20%; height: auto;"/>
 </div>
 <div style="display: flex; justify-content: center;">
-  <img src="Images/14.jpg" style="width: 100%; height: auto;"/>
+  <img src="Images/14.jpg" style="width: 50%; height: auto;"/>
 </div>
 
 ---
@@ -96,8 +96,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/2.jpg" style="width: 48%; height: auto;"/>
-  <img src="Images/3.jpg" style="width: 48%; height: auto;"/>
+  <img src="Images/2.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/3.jpg" style="width: 20%; height: auto;"/>
 </div>
 
 ---
@@ -106,8 +106,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🛠 Smart Power and VFD Units
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/4.jpg" style="width: 48%; height: auto;"/>
-  <img src="Images/5.jpg" style="width: 48%; height: auto;"/>
+  <img src="Images/4.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/5.jpg" style="width: 20%; height: auto;"/>
 </div>
 
 ---
@@ -116,8 +116,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🥈 2nd Place Winning Robot
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/15.jpg" style="width: 48%; height: auto;"/>
-  <img src="Images/16.jpg" style="width: 48%; height: auto;"/>
+  <img src="Images/15.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/16.jpg" style="width: 20%; height: auto;"/>
 </div>
 
 ---
