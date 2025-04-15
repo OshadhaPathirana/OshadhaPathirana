@@ -66,7 +66,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 📐 **Highlights**: PCB design for backboard integration, micro-operations programming.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/6.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/6.jpg" style="width: 22%; height: auto;"/>
   <img src="Images/7.jpg" style="width: 32%; height: auto;"/>
   <img src="Images/8.jpg" style="width: 10%; height: auto;"/>
 </div>
@@ -95,7 +95,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/2.jpg" style="width: 30%; height: auto;"/>
-  <img src="Images/3.jpg" style="width: 15%; height: auto;"/>
+  <img src="Images/3.jpg" style="width: 20%; height: auto;"/>
 </div>
 
 ---
@@ -104,8 +104,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🛠 Smart Power and VFD Units
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/4.jpg" style="width: 10%; height: auto;"/>
-  <img src="Images/5.jpg" style="width: 10%; height: auto;"/>
+  <img src="Images/4.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
 ---
@@ -114,8 +114,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🥈 2nd Place Winning Robot
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/15.jpg" style="width: 10%; height: auto;"/>
-  <img src="Images/16.jpg" style="width: 10%; height: auto;"/>
+  <img src="Images/15.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/16.jpg" style="width: 30%; height: auto;"/>
 </div>
 
 ---
