@@ -41,8 +41,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/9.jpg" height= "50%" width="100%" style="padding: 0;"></td>
-<td><img src="Images/10.jpg" height= "50%" width="100%" style="padding: 0;"></td>
+<td><img src="Images/9.jpg" height= "100%" width="100%" style="padding: 0;"></td>
+<td><img src="Images/10.jpg" height= "100%" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
 
@@ -69,9 +69,9 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/6.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/7.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/8.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/6.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/7.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/8.jpg" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
 
@@ -89,19 +89,10 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/11.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/12.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/14.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/11.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/12.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/14.jpg" width="100%" style="padding: 0;"></td>
 </tr>
-</table>
-
----
-
-## 🔧 Other Projects & Collaborations
-
-### 🛰️ **Nano Satellite Collaboration with GLEE**
-<table style="border-collapse: collapse;">
-<tr><td><img src="Images/1.jpg" width="50%" style="padding: 0;"></td></tr>
 </table>
 
 ---
@@ -109,8 +100,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/2.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/3.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/2.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/3.jpg" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
 
@@ -120,8 +111,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🛠 Smart Power and VFD Units
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/4.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/5.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/4.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/5.jpg" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
 
@@ -131,8 +122,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🥈 2nd Place Winning Robot
 <table style="border-collapse: collapse;">
 <tr>
-<td><img src="Images/15.jpg" width="50%" style="padding: 0;"></td>
-<td><img src="Images/16.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/15.jpg" width="100%" style="padding: 0;"></td>
+<td><img src="Images/16.jpg" width="100%" style="padding: 0;"></td>
 </tr>
 </table>
 
