@@ -41,8 +41,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table>
 <tr>
-<td><img src="Images/%289%29.jpg" width="50%"></td>
-<td><img src="Images/%2810%29.jpg" width="50%"></td>
+<td><img src="Images/(9).jpg" width="50%"></td>
+<td><img src="Images/(10).jpg" width="50%"></td>
 </tr>
 </table>
 
@@ -69,10 +69,10 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table>
 <tr>
-<td><img src="Images/%286%29.jpg" width="50%"></td>
-<td><img src="Images/%287%29.jpg" width="50%"></td>
+<td><img src="Images/(6).jpg" width="50%"></td>
+<td><img src="Images/(7).jpg" width="50%"></td>
 </tr>
-<tr><td><img src="Images/%288%29.jpg" width="50%"></td></tr>
+<tr><td><img src="Images/(8).jpg" width="50%"></td></tr>
 </table>
 
 🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.
@@ -89,11 +89,11 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <table>
 <tr>
-<td><img src="Images/%2811%29.jpg" width="50%"></td>
-<td><img src="Images/%2812%29.jpg" width="50%"></td>
+<td><img src="Images/(11).jpg" width="50%"></td>
+<td><img src="Images/(12).jpg" width="50%"></td>
 </tr>
 <tr>
-<td><img src="Images/%2814%29.jpg" width="50%"></td>
+<td><img src="Images/(14).jpg" width="50%"></td>
 </tr>
 </table>
 
@@ -102,15 +102,15 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 ## 🔧 Other Projects & Collaborations
 
 ### 🛰️ **Nano Satellite Collaboration with GLEE**
-<table><tr><td><img src="Images/%281%29.jpg" width="50%"></td></tr></table>
+<table><tr><td><img src="Images/(1).jpg" width="50%"></td></tr></table>
 
 ---
 
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
 <table>
 <tr>
-<td><img src="Images/%282%29.jpg" width="50%"></td>
-<td><img src="Images/%283%29.jpg" width="50%"></td>
+<td><img src="Images/(2).jpg" width="50%"></td>
+<td><img src="Images/(3).jpg" width="50%"></td>
 </tr>
 </table>
 
@@ -121,8 +121,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🛠 Smart Power and VFD Units
 <table>
 <tr>
-<td><img src="Images/%284%29.jpg" width="50%"></td>
-<td><img src="Images/%285%29.jpg" width="50%"></td>
+<td><img src="Images/(4).jpg" width="50%"></td>
+<td><img src="Images/(5).jpg" width="50%"></td>
 </tr>
 </table>
 
@@ -132,8 +132,8 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🥈 2nd Place Winning Robot
 <table>
 <tr>
-<td><img src="Images/%2815%29.jpg" width="50%"></td>
-<td><img src="Images/%2816%29.jpg" width="50%"></td>
+<td><img src="Images/(15).jpg" width="50%"></td>
+<td><img src="Images/(16).jpg" width="50%"></td>
 </tr>
 </table>
 
