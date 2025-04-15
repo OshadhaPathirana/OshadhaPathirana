@@ -95,7 +95,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/2.jpg" style="width: 35%; height: auto;"/>
-  <img src="Images/3.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/3.jpg" style="width: 18%; height: auto;"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 #### 🛠 Smart Power and VFD Units
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/4.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/4.jpg" style="width: 21%; height: auto;"/>
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
@@ -115,7 +115,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/15.jpg" style="width: 17%; height: auto;"/>
-  <img src="Images/16.jpg" style="width: 37%; height: auto;"/>
+  <img src="Images/16.jpg" style="width: 38%; height: auto;"/>
 </div>
 
 ---
