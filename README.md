@@ -39,10 +39,12 @@
 
 This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
-<table><tr>
-<td><img src="Images/9.jpg" width="100%"></td>
-<td><img src="Images/10.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/9.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/10.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 #### 🔑 Key Highlights:
 - **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools.  
@@ -65,11 +67,13 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 💾 Designed and implemented a CPU using Verilog and the CD40181 ALU.  
 📐 **Highlights**: PCB design for backboard integration, micro-operations programming.
 
-<table><tr>
-<td><img src="Images/6.jpg" width="100%"></td>
-<td><img src="Images/7.jpg" width="100%"></td>
-<td><img src="Images/8.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/6.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/7.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/8.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.
 
@@ -83,44 +87,54 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 🛠️ **Technologies**: Embedded C, Node-RED, MQTT, Power Electronics  
 📈 **Outcome**: Enhanced energy efficiency and anomaly detection.
 
-<table><tr>
-<td><img src="Images/11.jpg" width="100%"></td>
-<td><img src="Images/12.jpg" width="100%"></td>
-<td><img src="Images/14.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/11.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/12.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/14.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 ---
 
 ## 🔧 Other Projects & Collaborations
 
 ### 🛰️ **Nano Satellite Collaboration with GLEE**
-<table><tr><td><img src="Images/1.jpg" width="100%"></td></tr></table>
+<table style="border-collapse: collapse;">
+<tr><td><img src="Images/1.jpg" width="50%" style="padding: 0;"></td></tr>
+</table>
 
 ---
 
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
-<table><tr>
-<td><img src="Images/2.jpg" width="100%"></td>
-<td><img src="Images/3.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/2.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/3.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
 #### 🛠 Smart Power and VFD Units
-<table><tr>
-<td><img src="Images/4.jpg" width="100%"></td>
-<td><img src="Images/5.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/4.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/5.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 **Sri Lanka Robotics Challenge 2025**  
 #### 🥈 2nd Place Winning Robot
-<table><tr>
-<td><img src="Images/15.jpg" width="100%"></td>
-<td><img src="Images/16.jpg" width="100%"></td>
-</tr></table>
+<table style="border-collapse: collapse;">
+<tr>
+<td><img src="Images/15.jpg" width="50%" style="padding: 0;"></td>
+<td><img src="Images/16.jpg" width="50%" style="padding: 0;"></td>
+</tr>
+</table>
 
 ---
 
