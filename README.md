@@ -71,7 +71,12 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
   <img src="Images/8.jpg" style="width: 10%; height: auto;"/>
 </div>
 
-🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.
+🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard. 
+I have been working on my CPU project for about a month now. I managed to troubleshoot most of the PCBs and even tested them after integration.
+
+Here, the CPU is adding one number (register A) to another number (register B) in a continuous loop. I still use a set of wires to do the CU part manually. First, I have to select the correct circuit of the ALU to do the addition. And load two numbers into the registers by fetching them from the RAM. Then, I setup the program counter to do a never-ending loop. 
+
+I have learned a lot during this phase of the project and still have many things to learn in this CPU build journey.
 
 🔗 [8-Bit CPU with CD40181 ALU on PCBs](https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs)
 
@@ -93,11 +98,25 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
 
+Our inverter isn’t just another solar solution — it’s an intelligent power management system, built for precision, stability, and scalability. With seamless integration of multiple inverters, SEIAN is designed to scale effortlessly from homes to industrial setups.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/2.jpg" style="width: 32%; height: auto;"/>
   <img src="Images/3.jpg" style="width: 18%; height: auto;"/>
 </div>
 
+What sets us apart?
+
+🔹 Smart Control System for real-time optimization
+🔹Synchronized energy sharing for maximum efficiency
+🔹Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power
+🔹Focused on marketability and sustainable impact
+
+Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
+
+We're excited to take SEIAN to the next level!
+
+🔗 [SEIAN inverter System]([https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025))
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
@@ -108,6 +127,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
+🔗 [SEIAN Inverter / Industrial power management system](https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust)
 ---
 
 ### 🤖 **Sri Lanka Robotics Challenge 2025**  
