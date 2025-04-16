@@ -116,7 +116,7 @@ Our goal? To enable maximum energy utilization, minimize losses, and deliver rel
 
 We're excited to take SEIAN to the next level!
 
-🔗 [SEIAN inverter System](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025)
+🔗 ![SEIAN inverter System](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025)
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
@@ -127,7 +127,7 @@ We're excited to take SEIAN to the next level!
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
-🔗 [SEIAN Inverter / Industrial power management system](https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust)
+🔗 ![SEIAN Inverter / Industrial power management system](https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust)
 ---
 
 ### 🤖 **Sri Lanka Robotics Challenge 2025**  
