@@ -93,6 +93,16 @@ I have learned a lot during this phase of the project and still have many things
   <img src="Images/12.jpg" style="width: 20%; height: auto;"/>
   <img src="Images/14.jpg" style="width: 53%; height: auto;"/>
 </div>
+What sets us apart?
+
+🔹 Smart Control System for real-time optimization
+🔹Synchronized energy sharing for maximum efficiency
+🔹Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power
+🔹Focused on marketability and sustainable impact
+
+Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
+
+We're excited to take SEIAN to the next level!
 
 ---
 
@@ -105,18 +115,9 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
   <img src="Images/3.jpg" style="width: 18%; height: auto;"/>
 </div>
 
-What sets us apart?
-
-🔹 Smart Control System for real-time optimization
-🔹Synchronized energy sharing for maximum efficiency
-🔹Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power
-🔹Focused on marketability and sustainable impact
-
-Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
-
-We're excited to take SEIAN to the next level!
-
-🔗 ![SEIAN inverter System](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025)
+🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:11px;">
+  SEIAN inverter System
+</a>
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
@@ -127,7 +128,9 @@ We're excited to take SEIAN to the next level!
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
-🔗 ![SEIAN Inverter / Industrial power management system](https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust)
+🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:11px;">
+  SEIAN Inverter / Industrial power management system
+</a>
 ---
 
 ### 🤖 **Sri Lanka Robotics Challenge 2025**  
