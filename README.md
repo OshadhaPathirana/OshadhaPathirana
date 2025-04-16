@@ -62,7 +62,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 
 ### 2️⃣ **PCB-Based 8-Bit CPU Design**
 
-💾 Designed and implemented a CPU using Verilog and the CD40181 ALU.  
+💾 Designed and implemented a CPU using Logic ICs and the CD40181 ALU.  
 📐 **Highlights**: PCB design for backboard integration, micro-operations programming.
 
 <div style="display: flex; justify-content: space-between;">
