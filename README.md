@@ -128,7 +128,7 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
-This project is later developped into SEIAN 2025 Inverter system.
+<p><font size="6">This project is later developped into SEIAN 2025 Inverter system.</font></p>
 🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:6px;">
   SEIAN Inverter / Industrial power management system
 </a>
