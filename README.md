@@ -132,6 +132,7 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
 🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:6px;">
   SEIAN Inverter / Industrial power management system
 </a>
+
 ---
 
 ### 🤖 **Sri Lanka Robotics Challenge 2025**  
