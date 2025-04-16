@@ -35,7 +35,7 @@
 
 ## 🚀 Featured Projects
 
-### 1️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom CPU Implementation**
+### 1️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom Nios II CPU Implementation**
 
 This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
@@ -45,7 +45,7 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 </div>
 
 #### 🔑 Key Highlights:
-- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools.  
+- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools(Nios II CPUs).  
 - **Memory:** 8MB SDRAM for efficient data handling.  
 - **Compatibility:** Arduino support, enabling integration with various peripherals.  
 - **Programming Support:** C and C++ for streamlined application development.
@@ -116,7 +116,7 @@ Our goal? To enable maximum energy utilization, minimize losses, and deliver rel
 
 We're excited to take SEIAN to the next level!
 
-🔗 [SEIAN inverter System]([https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025))
+🔗 [SEIAN inverter System](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025)
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
