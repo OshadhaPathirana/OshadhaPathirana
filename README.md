@@ -103,6 +103,9 @@ What sets us apart?
 Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
 
 We're excited to take SEIAN to the next level!
+🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:7px;">
+  SEIAN inverter System
+</a>
 
 ---
 
@@ -115,9 +118,6 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
   <img src="Images/3.jpg" style="width: 18%; height: auto;"/>
 </div>
 
-🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:11px;">
-  SEIAN inverter System
-</a>
 ---
 
 ### ⚡ **Smart Energy Integration and Automation Network (SEIAN)**  
@@ -128,7 +128,7 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
-🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:11px;">
+🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:7 px;">
   SEIAN Inverter / Industrial power management system
 </a>
 ---
