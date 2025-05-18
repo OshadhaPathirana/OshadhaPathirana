@@ -35,28 +35,31 @@
 
 ## 🚀 Featured Projects
 
-### 1️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom Nios II CPU Implementation**
+### 1️⃣ **Smart Solar Inverter System**
 
-This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
+🔋 A cutting-edge solution for efficient solar power generation with integrated IoT monitoring.  
+🛠️ **Technologies**: Embedded C, Node-RED, MQTT, Power Electronics  
+📈 **Outcome**: Enhanced energy efficiency and anomaly detection.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/9.jpg" style="width: 20%; height: auto;"/>
-  <img src="Images/10.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/11.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/12.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/14.jpg" style="width: 53%; height: auto;"/>
 </div>
 
-#### 🔑 Key Highlights:
-- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools(Nios II CPUs).  
-- **Memory:** 8MB SDRAM for efficient data handling.  
-- **Compatibility:** Arduino support, enabling integration with various peripherals.  
-- **Programming Support:** C and C++ for streamlined application development.
+What sets us apart?
 
-#### 🌐 System-on-Chip (SoC) Design:
-- Efficient execution of computational tasks.  
-- Real-time applications, such as interrupt-based multitasking.
+🔹 Smart Control System for real-time optimization  
+🔹 Synchronized energy sharing for maximum efficiency  
+🔹 Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power  
+🔹 Focused on marketability and sustainable impact
 
-#### 🚀 Future Enhancements:
-- Addition of custom instructions to optimize specific operations.  
-- Integration of additional peripherals for enhanced functionality and scalability.
+Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
+
+We're excited to take SEIAN to the next level!  
+🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:6px;">
+  SEIAN inverter System
+</a>
 
 ---
 
@@ -82,30 +85,28 @@ I have learned a lot during this phase of the project and still have many things
 
 ---
 
-### 3️⃣ **Smart Solar Inverter System**
+### 3️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom Nios II CPU Implementation**
 
-🔋 A cutting-edge solution for efficient solar power generation with integrated IoT monitoring.  
-🛠️ **Technologies**: Embedded C, Node-RED, MQTT, Power Electronics  
-📈 **Outcome**: Enhanced energy efficiency and anomaly detection.
+This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/11.jpg" style="width: 20%; height: auto;"/>
-  <img src="Images/12.jpg" style="width: 20%; height: auto;"/>
-  <img src="Images/14.jpg" style="width: 53%; height: auto;"/>
+  <img src="Images/9.jpg" style="width: 20%; height: auto;"/>
+  <img src="Images/10.jpg" style="width: 20%; height: auto;"/>
 </div>
-What sets us apart?
 
-🔹 Smart Control System for real-time optimization
-🔹Synchronized energy sharing for maximum efficiency
-🔹Ideal for off-grid locations and Kabana-type hotels needing reliable, synchronized solar power
-🔹Focused on marketability and sustainable impact
+#### 🔑 Key Highlights:
+- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools (Nios II CPUs).  
+- **Memory:** 8MB SDRAM for efficient data handling.  
+- **Compatibility:** Arduino support, enabling integration with various peripherals.  
+- **Programming Support:** C and C++ for streamlined application development.
 
-Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
+#### 🌐 System-on-Chip (SoC) Design:
+- Efficient execution of computational tasks.  
+- Real-time applications, such as interrupt-based multitasking.
 
-We're excited to take SEIAN to the next level!
-🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:6px;">
-  SEIAN inverter System
-</a>
+#### 🚀 Future Enhancements:
+- Addition of custom instructions to optimize specific operations.  
+- Integration of additional peripherals for enhanced functionality and scalability.
 
 ---
 
