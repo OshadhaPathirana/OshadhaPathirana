@@ -56,10 +56,7 @@ What sets us apart?
 
 Our goal? To enable maximum energy utilization, minimize losses, and deliver reliable, scalable solar energy for a greener future. 🌱
 
-We're excited to take SEIAN to the next level!  
-🔗 <a href="https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025" style="font-size:6px;">
-  SEIAN inverter System
-</a>
+🔗 [SEIAN inverter System](https://github.com/OshadhaPathirana/Smart-Energy-Automation-and-Integration-Network-2025)
 
 ---
 
@@ -74,20 +71,12 @@ We're excited to take SEIAN to the next level!
   <img src="Images/8.jpg" style="width: 10%; height: auto;"/>
 </div>
 
-🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard. 
-I have been working on my CPU project for about a month now. I managed to troubleshoot most of the PCBs and even tested them after integration.
-
-Here, the CPU is adding one number (register A) to another number (register B) in a continuous loop. I still use a set of wires to do the CU part manually. First, I have to select the correct circuit of the ALU to do the addition. And load two numbers into the registers by fetching them from the RAM. Then, I setup the program counter to do a never-ending loop. 
-
-I have learned a lot during this phase of the project and still have many things to learn in this CPU build journey.
-
+🧠 This project dives deep into microarchitecture, with an 8-bit bus width, support for both 4-bit and 8-bit instructions, and 128 bits of RAM. The control unit and micro-ops programming are underway, and once done, everything will be mounted to a backboard.  
 🔗 [8-Bit CPU with CD40181 ALU on PCBs](https://github.com/OshadhaPathirana/8-Bit-CPU-with-CD40181-ALU-on-PCBs)
 
 ---
 
 ### 3️⃣ **Transitioning to DE10-Lite FPGA: A Flexible Custom Nios II CPU Implementation**
-
-This project showcases the evolution of my custom CPU design, moving from a PCB-based implementation to the DE10-Lite FPGA, leveraging Hardware Descriptive Languages (HDLs) for enhanced flexibility and scalability.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/9.jpg" style="width: 20%; height: auto;"/>
@@ -95,24 +84,22 @@ This project showcases the evolution of my custom CPU design, moving from a PCB-
 </div>
 
 #### 🔑 Key Highlights:
-- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools (Nios II CPUs).  
-- **Memory:** 8MB SDRAM for efficient data handling.  
-- **Compatibility:** Arduino support, enabling integration with various peripherals.  
-- **Programming Support:** C and C++ for streamlined application development.
+- **Platform:** DE10-Lite FPGA using Intel Quartus Prime and Platform Designer tools (Nios II CPUs)  
+- **Memory:** 8MB SDRAM  
+- **Compatibility:** Arduino support  
+- **Programming Support:** C and C++
 
-#### 🌐 System-on-Chip (SoC) Design:
-- Efficient execution of computational tasks.  
-- Real-time applications, such as interrupt-based multitasking.
+#### 🌐 SoC Design:
+- Efficient execution of computational tasks  
+- Real-time interrupt-based multitasking
 
 #### 🚀 Future Enhancements:
-- Addition of custom instructions to optimize specific operations.  
-- Integration of additional peripherals for enhanced functionality and scalability.
+- Custom instruction support  
+- Peripheral integration
 
 ---
 
 ### 🧠 **SLIoT Challenge 2023 – Smart Inverter & Monitoring System**
-
-Our inverter isn’t just another solar solution — it’s an intelligent power management system, built for precision, stability, and scalability. With seamless integration of multiple inverters, SEIAN is designed to scale effortlessly from homes to industrial setups.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/2.jpg" style="width: 32%; height: auto;"/>
@@ -129,10 +116,8 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
   <img src="Images/5.jpg" style="width: 25%; height: auto;"/>
 </div>
 
-<p><font size="6">This project is later developped into SEIAN 2025 Inverter system.</font></p>
-🔗 <a href="https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust" style="font-size:6px;">
-  SEIAN Inverter / Industrial power management system
-</a>
+<p><font size="6">This project is later developed into SEIAN 2025 Inverter system.</font></p>  
+🔗 [SEIAN Inverter / Industrial power management system](https://github.com/OshadhaPathirana/Smart-Solar-Inverter-SSI---UpThrust)
 
 ---
 
@@ -148,15 +133,17 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
 
 ## 🏆 Achievements
 
-- 🥇 **Singapore Space Challenge** (2021): Distinction Award for innovative rover mobility solutions.  
-- 🥈 **SLIoT Challenge** (2022): Second place for IoT-powered smart energy networks.  
-- 🏅 **Patent Holder**: Automated extendable drill design (LK21652) & Self-adapting wheel system (SAWS) (LK21653).
+- 🥇 **Singapore Space Challenge** (2021): Distinction Award for innovative rover mobility solutions  
+- 🥈 **SLIoT Challenge** (2022): Second place for IoT-powered smart energy networks  
+- 🏅 **Patent Holder**:  
+  - [Self-Adapting Wheel System (SAWS) – LK21653](https://github.com/OshadhaPathirana/Patents-of-Oshadha-Pathirana/blob/main/Patent%20LKA21653_A%20Wheel%20that%20includes%20Autonomous%20Adjustable%20Grousers.pdf)  
+  - [Fully Autonomous Extendable Drill – LK21652](https://github.com/OshadhaPathirana/Patents-of-Oshadha-Pathirana/blob/main/Patent%20LKA21652_A%20Fully%20Autonomous%20Extendable%20Drill%20.pdf)
 
 ---
 
 ## 📚 Publications
 
-- **[A self adapting wheel system for space exploration rovers](https://iafastro.directory/iac/paper/id/65366/summary/)** – IAC 2021, Dubai  
+- **[A Self Adapting Wheel System for Space Exploration Rovers](https://iafastro.directory/iac/paper/id/65366/summary/)** – IAC 2021, Dubai  
 - **[SOIL PENETRATION DARTS (SPDs)](https://iafastro.directory/iac/paper/id/72590/summary/)** – IAC 2022, Paris  
 - **[Economical Lunar Sample Return Mission](https://iafastro.directory/iac/paper/id/89101/summary/)** – IAC 2024, Milan
 
@@ -172,9 +159,9 @@ Our inverter isn’t just another solar solution — it’s an intelligent power
 
 ## 🎨 Engaging Facts
 
-- 🌟 Founder of Dyson Sphere, a project group of undergraduates focused on Renewable Energy and IoT.  
-- 🚀 Dreaming of contributing to space exploration technology.  
-- 🌍 Actively participates in hackathons and engineering competitions.
+- 🌟 Founder of Dyson Sphere, a project group of undergraduates focused on Renewable Energy and IoT  
+- 🚀 Dreaming of contributing to space exploration technology  
+- 🌍 Actively participates in hackathons and engineering competitions
 
 ---
 
